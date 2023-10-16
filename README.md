@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anirudha sutar</h1>
+<h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">A Data science enthusiasts from India</h3>
 
 - 🔭 I’m currently working on **Brain MRI disease identification**
